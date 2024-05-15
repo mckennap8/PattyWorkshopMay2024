@@ -25,7 +25,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Creating the Formula",
-  "body": " Creating the Formula  "
+  "body": " Creating the Formula  Here will will derive the Newton's method recursive formula.  "
+},
+{
+  "id": "sec-section-usingtheformula",
+  "level": "1",
+  "url": "sec-section-usingtheformula.html",
+  "type": "Section",
+  "number": "1.3",
+  "title": "Using the Formula",
+  "body": " Using the Formula  In this section, we will learn how to use the recursive formula on some straightforward examples.  "
 },
 {
   "id": "backmatter-2",
