@@ -15,36 +15,21 @@
   </p>
 
   <p>
-    Newton's method always begins with the user making an initial guess for the <m>x</m>-intercept being sought. We call this initial guess <m>x_0</m>.
+    Newton's method begins with the user making an initial guess for the <m>x</m>-intercept being sought. We call this initial guess <m>x_0</m>.
   </p>
 
   <p>
-    Next, we identify the point  <m>(x_0,f(x_0))</m> on the function and the tangent line to the function at that point.
+    Next, we identify the point  <m>(x_0,f(x_0))</m> on the function as well as the tangent line to the function at that point.
   </p>
 
   <p>
     !!Picture goes here!!
   </p>
 
-  <p>
-    We know that the equation of this tangent line is:
-  </p>
+ <p>
+  Newton's method uses the <m>x</m>-intercept of this line as the next approximation to the root being sought, labelling it <m>x_1</m>.
+ </p>
 
-<p>
-  <m>y-f(x_0) = f'(x_0)(x-x_0)</m>
-</p>
-
-<p>
-  (Make the above an exercise.)
-</p>
-
-<p>
-  We are interested in finding the <m>x</m>-intercept of the tangent line above; we will call this <m>x</m>-intercept <m>x_1</m>. Note that its coordinates are <m>(x_1,0)</m>. Using these coordinates, together with the tangent line formula above, we can give a formula for <m>x_1</m> in terms of <m>x_0</m>:
-</p>
-
-<p>
-  <m>x_1=x_0-\frac{f(x_0)}{f'(x_0)}</m>
-</p>
 
 
 

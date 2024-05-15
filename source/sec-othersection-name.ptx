@@ -5,6 +5,26 @@
 <p>
     Here we will derive the Newton's method recursive formula.
 </p>
-    
+ 
+<p>
+    We know that the equation of this tangent line is:
+  </p>
+
+<p>
+  <m>y-f(x_0) = f'(x_0)(x-x_0)</m>
+</p>
+
+<p>
+  (Make the above an exercise.)
+</p>
+
+<p>
+  We are interested in finding the <m>x</m>-intercept of the tangent line above; we will call this <m>x</m>-intercept <m>x_1</m>. Note that its coordinates are <m>(x_1,0)</m>. Using these coordinates, together with the tangent line formula above, we can give a formula for <m>x_1</m> in terms of <m>x_0</m>:
+</p>
+
+<p>
+  <m>x_1=x_0-\frac{f(x_0)}{f'(x_0)}</m>
+</p>
+
 
 </section>
