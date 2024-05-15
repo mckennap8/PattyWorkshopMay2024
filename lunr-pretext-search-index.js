@@ -37,6 +37,15 @@ var ptx_lunr_docs = [
   "body": " Using the Formula  In this section, we will learn how to use the recursive formula on some straightforward examples.  "
 },
 {
+  "id": "sec-section-howgoodistheformula",
+  "level": "1",
+  "url": "sec-section-howgoodistheformula.html",
+  "type": "Section",
+  "number": "1.4",
+  "title": "How Good Is Newton’s Method?",
+  "body": " How Good Is Newton's Method?  The answer to the question \"how good is Newton's Method\" is \"it depends\". In this section, we will explore some functions and particular initial guesses and see how things go.  "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
