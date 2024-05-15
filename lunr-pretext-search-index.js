@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Creating the Formula",
-  "body": " Creating the Formula  Here will will derive the Newton's method recursive formula.  "
+  "body": " Creating the Formula  Here we will derive the Newton's method recursive formula.  "
 },
 {
   "id": "sec-section-usingtheformula",
