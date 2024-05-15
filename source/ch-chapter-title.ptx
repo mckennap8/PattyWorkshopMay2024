@@ -12,4 +12,5 @@
   <xi:include href="sec-section-name.ptx" />
   <xi:include href="sec-othersection-name.ptx" />
   <xi:include href="sec-section-usingtheformula.ptx" />
+  <xi:include href="sec-section-howgoodistheformula.ptx" />
 </chapter>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-howgoodistheformula" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>How Good Is Newton's Method?</title>
+
+    <p>
+        The answer to the question "how good is Newton's Method" is "it depends". In this section, we will explore some functions and particular initial guesses and see how things go.
+    </p>
+
+</section>

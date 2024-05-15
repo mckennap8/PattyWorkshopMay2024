@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Patty's Great Book</title>
-    <subtitle>Hoping to Build Something Good...</subtitle>
+    <title>A Module On Newton's Method</title>
+    <subtitle>...for approximating the roots of a function</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
