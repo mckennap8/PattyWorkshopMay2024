@@ -6,7 +6,7 @@
 
   <book xml:id="my-great-book">
     <title>A Module On Newton's Method</title>
-    <subtitle>...for approximating the roots of a function</subtitle>
+    <subtitle>...for approximating the roots of a differentiable function</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
