@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "How Newton’s Method Works",
-  "body": " How Newton's Method Works  Text of section.  "
+  "body": " How Newton's Method Works  Since Newton's method is used to approximate a root\/zero\/ -intercept of a differentiable function, we must define the function for which we are trying to solve the equation .  In order to get a visual understanding of how Newton's method works, we begin with a graph of .  !!Picture goes here!!  Newton's method always begins with the user making an initial guess for the -intercept being sought. We call this initial guess .  Next, we identify the point on the function and the tangent line to the function at that point.  !!Picture goes here!!  We know that the equation of this tangent line is:     (Make the above an exercise.)  We are interested in finding the -intercept of the tangent line above; we will call this -intercept . Note that its coordinates are . Using these coordinates, together with the tangent line formula above, we can give a formula for in terms of :     "
 },
 {
   "id": "sec-othersection-name",
