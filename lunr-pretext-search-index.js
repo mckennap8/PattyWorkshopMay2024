@@ -37,11 +37,20 @@ var ptx_lunr_docs = [
   "body": " Using the Formula  In this section, we will learn how to use the recursive formula on some straightforward examples.  "
 },
 {
+  "id": "sec-section-theformulawiththeticalculator",
+  "level": "1",
+  "url": "sec-section-theformulawiththeticalculator.html",
+  "type": "Section",
+  "number": "1.4",
+  "title": "Using the TI-84 to Repeatedly Evaluate the Recursive Formula",
+  "body": " Using the TI-84 to Repeatedly Evaluate the Recursive Formula  Since it is such a repetitive process to repeatedly evaluate the same function, it will be straightforward to have our TI-84 calculators do the work for us.  "
+},
+{
   "id": "sec-section-howgoodistheformula",
   "level": "1",
   "url": "sec-section-howgoodistheformula.html",
   "type": "Section",
-  "number": "1.4",
+  "number": "1.5",
   "title": "How Good Is Newton’s Method?",
   "body": " How Good Is Newton's Method?  The answer to the question \"how good is Newton's Method\" is \"it depends\". In this section, we will explore some functions and particular initial guesses and see how things go.  "
 },
