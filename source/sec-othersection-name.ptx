@@ -2,7 +2,9 @@
 
 <section xml:id="sec-othersection-name" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Creating the Formula</title>
-
+<p>
+    Here will will derive the Newton's method recursive formula.
+</p>
     
 
 </section>
